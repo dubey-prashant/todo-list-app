@@ -8,5 +8,5 @@ Make a list of your todos.
 Categorize your todos just by visiting ```/anyCategoryNameYouWishToCreate```.
 
 You can access it again by visiting the same url.
-
-> e.g.  ```/anyCategoryNameYouWishToCreate``` in this case 
+> e.g.  ```/anyCategoryNameYouWishToCreate``` 
+in this case 
