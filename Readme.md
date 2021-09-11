@@ -3,6 +3,10 @@
 
 Make a list of your todos.
 
-### Special feature
+## Special feature
 
-Categorize your todos just by visiting ```/anyCategoryName``` whatever you wish name your category.
+Categorize your todos just by visiting ```/anyCategoryNameYouWishToCreate```.
+
+You can access it again by visiting the same url.
+
+> e.g.  ```/anyCategoryNameYouWishToCreate``` in this case 
